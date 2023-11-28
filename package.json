@@ -40,7 +40,7 @@
     "react-router-dom": "^4.2.2",
     "redux": "^3.7.2",
     "redux-logger": "^3.0.6",
-    "simpl-schema": "^1.2.2",
+    "simpl-schema": "^1.13.0",
     "styled-components": "^2.2.3",
     "web-push": "^3.2.5"
   },
