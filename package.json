@@ -29,7 +29,7 @@
     "invariant": "^2.2.2",
     "lodash": "^4.17.4",
     "merge-graphql-schemas": "^1.4.0",
-    "meteor-node-stubs": "^0.2.11",
+    "meteor-node-stubs": "^1.2.8",
     "prop-types": "^15.6.0",
     "react": "^16.0.0",
     "react-apollo": "^2.0.0",
